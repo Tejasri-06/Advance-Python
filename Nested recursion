@@ -1,0 +1,8 @@
+def chikki(a):
+  if(a==1):
+    return
+  a-=1
+  chikki(a)
+  print("Heyy")
+  chikki(a)
+chikki(5)
