@@ -1,0 +1,5 @@
+def ace(name="Tejasri"):
+  print("Good Morning",name)
+ace("Abhi")
+ace("keer")
+ace()
